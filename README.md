@@ -24,3 +24,13 @@ This project was created to practice and understand the fundamentals of **Softwa
 ---
 
 ## 📂 Folder Structure
+react-todo-app
+├── public/  
+│ └── index.html  
+├── src/  
+│ ├── App.js  
+│ ├── App.css  
+│ ├── utils.js  
+│ └── index.js  
+├── package.json  
+└── README.md  
